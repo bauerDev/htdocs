@@ -70,6 +70,19 @@
                 echo "$clave: $valor";
             }
         }
+
+        //Cambio de tipo de variable
+
+        $soloEuros=5;
+        $centimos=43;
+        $dinero=$soloEuros+($centimos/100);
+        print $dinero;
+
+        // ejercicio prueba
+
+        
+
+
     
     ?>
 </body>
