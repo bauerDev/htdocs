@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Examen Servidor - Rocío Escudero Martín</title>
 </head>
-<body>
-
-    //rocio escudero martin
+<body> 
     
 <?php
+
+// Examen realizado por : Rocío Escudero Martín
+
 
     $nombre_alumno = "Rocío Escudero Martín";
     $modulo = "Desarrollo Web en Entorno Sevidor";
